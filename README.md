@@ -3,7 +3,8 @@
 An Android application for student authentication and entity management, built with Kotlin and modern Android architecture components.
 
 ## 📱 Overview
-
+## 👨‍💻 Student ID:s8087644
+## Student Name:Sabin Man Singh Pradhan
 This is a native Android application that provides a student login system with dashboard functionality. Students can authenticate using their credentials and view assigned entities/data in a modern, user-friendly interface.
 
 ## ✨ Features
