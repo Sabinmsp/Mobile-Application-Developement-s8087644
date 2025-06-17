@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sabinmsp/Mobile-Application-Developement-s8087644.git
 cd MyAssssmentApplication
 ```
 
@@ -235,4 +235,4 @@ If you encounter any issues:
 
 ---
 
-**Note**: This application requires an active internet connection to authenticate users and fetch dashboard data from the remote API. 
+**Note**: This application requires an active internet connection to authenticate users and fetch dashboard data from the remote API.
